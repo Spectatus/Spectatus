@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Spectatus
+- 👀 I’m interested in Game Design
+- 🌱 I’m currently learning Unity and C#
+- 💞️ I’m looking to collaborate on Game Designing
+- 📫 How to reach me marshalwindsor@gmail.com
